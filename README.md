@@ -71,7 +71,7 @@ where `T` is the pulse period, `τ` is the pulse duration, `a` is the amplitude,
 ## Usage
 
 ```javascript
-import iterBartlettPulse from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate-iter-bartlett-pulse@esm/index.mjs';
+import iterBartlettPulse from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate-iter-bartlett-pulse@v0.2.1-esm/index.mjs';
 ```
 
 #### iterBartlettPulse( \[options] )
@@ -282,7 +282,7 @@ var bool = it.next().done;
 <body>
 <script type="module">
 
-import iterBartlettPulse from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate-iter-bartlett-pulse@esm/index.mjs';
+import iterBartlettPulse from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate-iter-bartlett-pulse@v0.2.1-esm/index.mjs';
 
 // Create an iterator:
 var opts = {
