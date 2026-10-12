@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-11)
+## Unreleased (2026-10-12)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`677455a`](https://github.com/stdlib-js/stdlib/commit/677455a85e9fec4ab0e6050cf8d9c6157c29f5d7) - **test:** migrate `simulate/iter/bartlett-pulse` to ULP-based assertions [(#15903)](https://github.com/stdlib-js/stdlib/pull/15903) _(by Athan Reines)_
 -   [`b2ef3a3`](https://github.com/stdlib-js/stdlib/commit/b2ef3a330e9fb2fbb3093553dcb3969b894379bc) - **docs:** correct `@throws` description for pulse duration [(#12515)](https://github.com/stdlib-js/stdlib/pull/12515) _(by Philipp Burckhardt)_
 -   [`e997446`](https://github.com/stdlib-js/stdlib/commit/e997446d98bf546c0220bad7a7f11b63c6944e35) - **bench:** refactor to use string interpolation in `simulate` [(#11591)](https://github.com/stdlib-js/stdlib/pull/11591) _(by Karan Anand)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
 
